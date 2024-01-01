@@ -8,7 +8,7 @@ Welcome to the Next.js with tRPC Practice repository! This project is designed f
 
 1. **Clone the Repository:**
 ```
-git clone https://github.com/your-username/nextjs-trpc-practice.git
+git clone https://github.com/Hasnat-Ahmed-Goheer/nextjs-trpc-practice.git
 ```
 2. Navigate to the Project:
 
