@@ -1,7 +1,5 @@
 # Next.js with tRPC Practice
 
-**Note: This is a private repository. Access is restricted to authorized contributors.**
-
 Welcome to the Next.js with tRPC Practice repository! This project is designed for hands-on exploration of using tRPC (Typed Routes, Predictable Client) with Next.js. Get started quickly with the following steps:
 
 ## Getting Started
@@ -57,9 +55,6 @@ Detailed examples and code snippets related to tRPC usage can be found in the [e
 - [Next.js Documentation](https://nextjs.org/docs)
 - [tRPC Documentation](https://trpc.io/docs/)
 
-## Contributing
-
-Contributions are not accepted for this private repository.
 
 ## License
 
